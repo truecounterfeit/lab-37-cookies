@@ -1,0 +1,61 @@
+{
+  "name": "lab-37-cookies",
+  "version": "1.0.0",
+  "description": "401 JS --  Lab 37 auth/cookies ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows-seattle-javascript-401n4/lab-37-cookies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefellows-seattle-javascript-401n4/lab-37-cookies/issues"
+  },
+  "homepage": "https://github.com/codefellows-seattle-javascript-401n4/lab-37-cookies#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "css-loader": "^0.28.8",
+    "dotenv": "^4.0.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "express": "^4.16.2",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^2.30.1",
+    "http-errors": "^1.6.2",
+    "jest": "^22.0.4",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.9",
+    "morgan": "^1.9.0",
+    "node-sass": "^4.7.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-test-renderer": "^16.2.0",
+    "redux": "^3.7.2",
+    "resolve-url-loader": "^2.2.1",
+    "sass-loader": "^6.0.6",
+    "share-state": "^1.0.2",
+    "sinon": "^4.1.4",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.0"
+    },
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "expect": "^21.2.1","expect": "^21.2.1"
+    "nodemon": "^1.14.9",
+    "superagent": "^3.8.2"
+    }
