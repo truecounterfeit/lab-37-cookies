@@ -1,12 +1,12 @@
 import {combineReducers} from 'redux';
 
-import todoReducer from '../components/todo/reducer';
+import wizardFormReducer from './reducers/WizardForm-reducer';
 import authReducer from '../components/auth/reducer';
-import profileReducer from '../components/profile/reducer';
+import profileReducer from './reducers/profile-reducer';
 
 
 export default combineReducers({
-    todo: todoReducer,
+    wizard: wizardFormReducer,
     profile: profileReducer,
     auth: authReducer
 });
